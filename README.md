@@ -10,11 +10,12 @@ Programma per Windows che acquisisce le chat esportate da WhatsApp (iPhone e And
 
 Requisiti: Windows 10 o 11 a 64 bit. Non servono diritti di amministratore né altri programmi.
 
-1. Avvia il file scaricato: il programma si installa e si apre.
-2. Se il browser segnala che il file "non viene scaricato spesso", scegli *Mantieni* / *Conserva comunque*.
-3. Se compare l'avviso di Windows SmartScreen, scegli *Ulteriori informazioni* → *Esegui comunque*.
+1. Se il browser segnala che il file "non viene scaricato spesso", scegli *Mantieni* (Edge) o *Conserva comunque* (Chrome).
+2. **Prima di avviarlo togli il blocco di Windows**: tasto destro sul file scaricato → *Proprietà* → in basso spunta *Annulla blocco* → *OK*.
+3. Avvia il file con un doppio clic: il programma si installa e si apre.
+4. Se compare comunque l'avviso di Windows SmartScreen, scegli *Ulteriori informazioni* → *Esegui comunque*.
 
-Le versioni successive vengono proposte dal programma stesso all'avvio.
+Le versioni successive vengono proposte dal programma stesso all'avvio e si installano da sole, senza blocchi da togliere.
 
 ## Licenza d'uso gratuita
 
