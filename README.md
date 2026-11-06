@@ -2,7 +2,15 @@
 
 # WEF – WhatsApp Export Forensics
 
-Programma per Windows che acquisisce le chat esportate da WhatsApp (iPhone e Android, in qualsiasi lingua) e produce documenti verificabili a uso forense: archivio dei messaggi, Excel con collegamenti agli allegati, rapporti PDF con miniature, impronte MD5 e SHA-256, trascrizione locale dei messaggi vocali.
+Programma per Windows che importa le chat esportate da WhatsApp (**iPhone** e **Android**, in qualsiasi lingua), ne estrae messaggi e allegati e produce documenti verificabili a uso forense.
+
+## Cosa fa
+
+- **Acquisizione da telefono Android**: con il telefono collegato via cavo USB (Debug USB attivo) preleva l'esportazione della chat direttamente dalla memoria del telefono, calcola le impronte sul telefono e di nuovo sul PC e le confronta, legge i dati del dispositivo (modello, numero di serie, versione Android, orologio) e crea il **Rapporto di acquisizione dal telefono** in PDF. Non installa nulla sul telefono e non modifica il file.
+- **Importazione ed estrazione** delle chat esportate (ZIP con allegati o solo testo), con impronte MD5 e SHA-256 del file originale, della chat e di ogni allegato.
+- **Documenti**: Excel dei messaggi con collegamenti agli allegati, Rapporto di estrazione e Report degli allegati in PDF con miniature, anche limitati a uno o più periodi.
+- **Trascrizione dei messaggi vocali** interamente sul computer (Whisper), di tutta la chat o solo dei periodi di interesse.
+- **Registro delle operazioni** per ogni estrazione e acquisizione, a garanzia della catena di custodia.
 
 ## Scarica
 
