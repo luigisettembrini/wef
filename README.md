@@ -49,7 +49,7 @@ Le versioni successive vengono proposte dal programma stesso all'avvio e si inst
 
 L'uso di WEF è concesso gratuitamente, previa attivazione sul computer su cui viene utilizzato. Il codice di attivazione si richiede, gratuitamente, dalla finestra di attivazione del programma: il messaggio viene inviato a **wef@luigisettembrini.it**. Senza attivazione il programma funziona in sola consultazione.
 
-La licenza è personale, non esclusiva e non trasferibile: il programma resta di proprietà esclusiva dell'autore e non può essere ceduto, venduto, modificato o distribuito senza la sua autorizzazione scritta. Il programma è fornito «così com'è», senza garanzie di alcun tipo.
+La licenza è personale, non esclusiva e non trasferibile: il programma resta di proprietà esclusiva dell'autore e non può essere ceduto, venduto, modificato o distribuito senza la sua autorizzazione scritta. Il programma è fornito "così com'è", senza garanzie di alcun tipo.
 
 WEF utilizza componenti di terze parti open source, elencati con le rispettive licenze nella finestra *Informazioni* del programma. Android è un marchio di Google LLC; iPhone, iTunes e iCloud sono marchi di Apple Inc.; WhatsApp è un marchio di WhatsApp LLC. WEF non è affiliato a queste società né da esse approvato.
 
