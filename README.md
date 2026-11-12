@@ -34,6 +34,10 @@ Programma per Windows che acquisisce e importa le chat esportate da WhatsApp (**
 - **Android**: cavo USB e Debug USB attivo sul telefono; gli strumenti ufficiali di Google (platform-tools) li scarica il programma la prima volta.
 - **iPhone**: iTunes o Dispositivi Apple sul PC, per creare il backup cifrato.
 
+  **Dispositivi Apple** (*Apple Devices*) è l'app di Apple, gratuita sul **Microsoft Store**, che su Windows 10 (22H2 o successivo) e Windows 11 ha preso il posto di iTunes per la gestione di iPhone e iPad: backup, ripristino, sincronizzazione e aggiornamento. Con l'app si installa anche il driver che permette a Windows di comunicare con l'iPhone via cavo. Su un PC nuovo è la scelta consigliata; chi usa già iTunes può continuare a farlo, perché il backup ha lo stesso formato e WEF li legge entrambi. Una volta installata Dispositivi Apple, iTunes non gestisce più i dispositivi.
+
+  Per WEF il backup va fatto su **Questo computer** con **Codifica backup locale** attiva (password scelta dall'operatore).
+
 ## Scarica e installa
 
 **[Scarica l'ultima versione (WEF-win-Setup.exe)](https://github.com/luigisettembrini/wef/releases/latest/download/WEF-win-Setup.exe)**
